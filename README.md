@@ -1,5 +1,10 @@
 # module7assignment
 
+![1listofProducts](https://github.com/nayeemx11/module7assignment/assets/63298176/13b9278d-613e-45ba-b1ca-f8fb7cffbd2e)
+![cartlistSimple](https://github.com/nayeemx11/module7assignment/assets/63298176/94ccc708-194a-4383-bce2-0b7c2aa65c30)
+![show dialoug](https://github.com/nayeemx11/module7assignment/assets/63298176/3d6dd2ba-bf25-4f41-818a-3808f5c06031)
+
+
 echo "# module7assignment" >> README.md
 git init
 git add -A
