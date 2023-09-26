@@ -71,9 +71,9 @@ class _ProductListState extends State<ProductList> {
                   Text("Count: ${products[index].count}"),
                   ElevatedButton(
                     onPressed: () {
-                      if (cartCurrentSize < 5) {
-                        setState(() {});
-                        products[index].count++;
+                      products[index].count++;
+                      setState(() {});
+                      if (cartCurrentSize < 4) {
                         cartCurrentSize++;
                       } else {
                         showDialog(
